@@ -42,6 +42,6 @@ float add(float a, float b) {
   return a + b;
 }
 
-float add(double a, double b) {
+double add(double a, double b) {
   return a + b;
 }
