@@ -4,3 +4,6 @@
 
 ## how to compile
 gcc <target file> [-o name] -lstdc++
+
+多文件编译
+- 头文件不需要包括。
