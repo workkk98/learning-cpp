@@ -60,6 +60,6 @@ Cow & Cow::operator=(const Cow & c) {
 
 void Cow::ShowCow() const {
   cout<< "name:   " << this->name << endl;
-  cout<< "hobby:   " << *this->hobby << endl;
+  cout<< "hobby:   " << this->hobby << endl;
   cout<< "weight:   " << this->weight << endl;
 }
